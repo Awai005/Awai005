@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel
-- 👀 I’m interested in AI and data science. I am also interested in micro processors, robotics and virtual reality.
-- 🌱 I’m currently learning Machine Learning, deep learning and unity for virtual reality
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects and robotics.
+- 👀 I’m interested in AI and data science. I am also interested in micro processors and robotics.
+- 🌱 I’m currently carrying out projects in  Machine Learning, Deep Learning and Automation.
+- 💞️ I’m looking to collaborate on AI and robotics projects.
 - 📫  connect with me through 
         samuel.awai5@gmail.com
         linkedin.com/in/tersoo-samuel-awai-340503138
