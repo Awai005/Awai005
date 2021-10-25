@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in AI and data science. I am also interested in micro processors and robotics.
-- 🌱 I’m currently carrying out projects in  Machine Learning, Deep Learning and Automation.
+- 🌱 I’m currently carrying out projects in  Artificial Inteligence, Robotics and Automation.
 - 💞️ I’m looking to collaborate on AI and robotics projects.
 - 📫  connect with me through 
         samuel.awai5@gmail.com
