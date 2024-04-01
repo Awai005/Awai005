@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel
-- 👀 I’m interested in AI and data science. I am also interested in micro processors and robotics.
-- 🌱 I’m currently carrying out projects in  Artificial Inteligence, Robotics and Automation.
-- 💞️ I’m looking to collaborate on AI and robotics projects.
+- 👀 I’m interested in Control Theory and Robotics. I am also interested in ROS2.
+- 🌱 I’m currently carrying out research in Non-Linear control.
+- 💞️ I’m looking to collaborate on ROS and Robot Dynamics projects.
 - 📫  connect with me through 
         samuel.awai5@gmail.com
         linkedin.com/in/tersoo-samuel-awai-340503138
