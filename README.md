@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Robotics project using software such as ROS2 and Solidworks
 - 📫  connect with me through 
         samuel.awai5@gmail.com
+        and
         linkedin.com/in/tersoo-samuel-awai-340503138
 
 <!---
