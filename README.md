@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in Control Theory, Computer vision and Robotics.
-- 🌱 I’m currently carrying out research in State-Space Analysis of Disturbance Observer for sinusoidal disturbances in linear systems. I also work on control application tasks using tools like Matlab and ROS 2.
-- 💞️ I’m looking to collaborate on Robotics project using software such as ROS2 and Solidworks
+- 🌱 I’m currently carrying out research in State-Space Analysis of Disturbance Observer for sinusoidal disturbances in a class of linear systems. I also work on control application tasks using Matlab and ROS 2.
+- 💞️ I’m looking to collaborate on Robotics project
 - 📫  connect with me through 
         samuel.awai5@gmail.com
         and
